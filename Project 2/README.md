@@ -1,7 +1,7 @@
 Cerinte pentru cel de-al doilea proiect din cadrul cursului de Programare Orientata pe Obiecte:
 
 - Toate clasele vor conține obligatoriu constructori de inițializare, parametrizați și de copiere; destructor; operatorii „=”, „>>”, „<<” supraîncărcați corespunzător, moșteniri & encapsulare 
-- Clasele derivate trebuie sa contina constructori parametrizati (prin care sa se evidentieze transmiterea parametrilor catre constructorul din clasa de baza) si destructori. (1p)
+- Clasele derivate trebuie sa contina constructori parametrizati (prin care sa se evidentieze transmiterea parametrilor catre constructorul din clasa de baza) si destructori.
 - În fiecare proiect vor fi ilustrate conceptele de upcasting, downcasting, funcții virtuale (pure – unde se consideră mai natural)
 - Utilizarea de variabile și de funcții statice
 - Citirea informațiilor complete a n obiecte, memorarea și afișarea acestora
