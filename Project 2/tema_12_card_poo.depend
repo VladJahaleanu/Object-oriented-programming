@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618259821 source:f:\scoalafmm\tema_12_card_poo\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
