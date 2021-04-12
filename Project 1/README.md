@@ -2,13 +2,13 @@ Proiectul 1 a acoperit cele mai de baza concepte ale POO.
 
 Cerinte pentru primul proiect:
 
--implementare in C++ folosind clase
--datele membre private 
--constructori de initializare (cu si fara parametrii), constructor de copiere 
--get, set pentru toate datele membre 
--supraincarcarea operatorilor << si >> pentru iesiri si intrari de obiecte, dupa indicatiile de mai jos, astfel incat sa fie permise (si ilustrate in program): 
--sa existe o metoda publica prin care se realizeaza citirea informațiilor complete a n obiecte, memorarea și afisarea acestora. 
--programul sa aiba un meniu interactiv 
+- implementare in C++ folosind clase
+- datele membre private
+- constructori de initializare (cu si fara parametrii), constructor de copiere 
+- get, set pentru toate datele membre 
+- supraincarcarea operatorilor << si >> pentru iesiri si intrari de obiecte, dupa indicatiile de mai jos, astfel incat sa fie permise (si ilustrate in program): 
+- sa existe o metoda publica prin care se realizeaza citirea informațiilor complete a n obiecte, memorarea și afisarea acestora. 
+- programul sa aiba un meniu interactiv 
 
 Tema 3. Clasa ”Vector” (vector de numere întregi) 
 - membri privati pentru vectorul propriuzis si numarul de elemente; 
